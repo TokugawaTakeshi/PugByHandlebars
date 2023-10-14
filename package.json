@@ -1,0 +1,21 @@
+{
+  "name": "handlebars-by-pug",
+  "version": "0.0.0",
+  "description": "Pug mixins for the outputting of the Handlebars code instead of plain HTML.",
+  "keywords": [
+    "handlebars"
+  ],
+  "author": {
+    "name": "Takeshi Tokugawa",
+    "email": "tokugawa.takesi@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TokugawaTakeshi/HandlebarsByPug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TokugawaTakeshi/HandlebarsByPug.git/issues",
+    "email": "tokugawa.takesi@gmail.com"
+  }
+}
